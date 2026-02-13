@@ -17,7 +17,7 @@ a:hover {
     width: 50px;
     background: lightgray;
     border-radius: 50%;
-    background-image: url(/gambar/gambar3.jpeg);
+    background-image: url(gambar/gambar3.jpeg);
     background-size: cover;
 }
 
@@ -27,7 +27,7 @@ body {
 }
 
 #home-page {
-    background-image: url(/gambar/gambar5.jpeg);
+    background-image: url(gambar/gambar5.jpeg);
     background-repeat: no-repeat;
     background-size: 100% auto;
 }
